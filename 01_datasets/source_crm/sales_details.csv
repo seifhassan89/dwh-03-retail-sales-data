@@ -1,0 +1,4 @@
+sls_ord_num,sls_prd_key,sls_cust_id,sls_order_dt,sls_ship_dt,sls_due_dt,sls_sales,sls_quantity,sls_price
+SO001,P001,1,20240101,20240102,20240105,1000,2,500
+SO002,P002,2,20240102,20240103,20240105,30,1,30
+SO003,P001,3,20240205,20240206,20240210,500,1,500

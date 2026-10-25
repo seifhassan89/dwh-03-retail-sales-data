@@ -1,0 +1,4 @@
+cst_id,cst_key,cst_firstname,cst_lastname,cst_marital_status,cst_gndr,cst_create_date
+1,AW0001,  Maya ,Ali,S,F,2023-01-01
+2,AW0002,Omar,Said,M,M,2023-01-02
+3,AW0003,Lina,Hassan,S,F,2023-02-10

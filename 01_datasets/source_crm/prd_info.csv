@@ -1,0 +1,3 @@
+prd_id,prd_key,prd_nm,prd_cost,prd_line,prd_start_dt,prd_end_dt
+10,CO_BIK-P001,City Bike,500,R,2023-01-01,
+11,CO_ACC-P002,Helmet,30,S,2023-01-01,
